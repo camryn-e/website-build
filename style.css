@@ -1,3 +1,19 @@
 body {
-    background: blue;
+    background-color: darkseagreen;
+  }
+
+h1, h2 {
+    text-align: center;
+}
+
+nav {
+    display: block;
+    margin: center;
+    text-align: center;
+  } 
+  
+  nav a {
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
   }
